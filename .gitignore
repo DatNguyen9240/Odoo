@@ -1,0 +1,15 @@
+# Environment variables (chứa mật khẩu nhạy cảm)
+.env
+
+# Python byte-code
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
